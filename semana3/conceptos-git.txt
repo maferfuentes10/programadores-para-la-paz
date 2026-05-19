@@ -1,0 +1,8 @@
+Repositorio:
+Un espacio o directorio donde se almacena el código fuente de un proyecto, junto con el historial completo de todos los cambios realizados a través del tiempo gracias a Git.
+
+Commit:
+Es un punto de guardado o una fotografía del estado actual de los archivos en el proyecto. Permite registrar qué cambios exactos se hicieron y dejar un mensaje explicativo.
+
+Push:
+Es el comando utilizado para enviar los cambios guardados (commits) desde el entorno local en la computadora hacia un servidor remoto en internet, como GitHub.
