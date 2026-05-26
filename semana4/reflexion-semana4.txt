@@ -1,0 +1,8 @@
+Las tecnologías abiertas como Node.js son fundamentales para las iniciativas ciudadanas porque democratizan el acceso a la creación de software.
+Al ser de código abierto y gratuitas, eliminan las barreras económicas que normalmente impiden el desarrollo tecnológico.
+Permiten a las comunidades construir soluciones adaptadas a sus necesidades específicas sin depender de grandes corporaciones.
+Además, fomentan la colaboración, la transparencia y el intercambio de conocimientos entre ciudadanos.
+Al tener control sobre sus propias herramientas, las comunidades garantizan la privacidad y seguridad de sus datos.
+Esto empodera a los ciudadanos, dándoles voz y recursos para resolver problemas locales de forma innovadora.
+La independencia tecnológica fortalece el tejido social y promueve la participación activa en la era digital.
+En resumen, la tecnología abierta es un pilar para la soberanía tecnológica y el desarrollo social comunitario.
