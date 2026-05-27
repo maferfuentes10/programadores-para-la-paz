@@ -1,0 +1,5 @@
+1. Qué hace esta ruta:
+Es un endpoint de tipo POST que recibe información en formato JSON a través del cuerpo de la solicitud (req.body.mensaje). El servidor procesa ese dato y responde con otro objeto JSON confirmando que el reporte fue recibido de manera exitosa.
+
+2. Para qué podría servir en una aplicación comunitaria:
+Análisis práctico: Podría utilizarse para que los ciudadanos envíen reportes estructurados en tiempo real, como alertar sobre una avería en los servicios públicos, registrar una solicitud de asistencia o notificar una incidencia de seguridad en el barrio de forma automatizada sin colapsar canales telefónicos tradicionales.

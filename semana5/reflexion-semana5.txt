@@ -1,0 +1,8 @@
+Las APIs representan una herramienta tecnológica de gran valor para la organización comunitaria en la era digital.
+Permiten centralizar el flujo de información proveniente de múltiples fuentes, facilitando la recepción de reportes y alertas en tiempo real.
+Al estandarizar la forma en que se comparten los datos, las comunidades pueden integrar distintas aplicaciones de manera organizada.
+Por ejemplo, un reporte enviado desde un teléfono móvil puede conectarse inmediatamente con un sistema de visualización o un mapa local.
+Esto elimina los intermediarios y acelera los tiempos de respuesta ante emergencias, fallas de servicios o necesidades colectivas.
+Además, al utilizar tecnologías abiertas, el control de la información permanece en manos de los ciudadanos, garantizando transparencia.
+La estructura lógica de los endpoints permite categorizar los datos de forma automática, separando alertas de sugerencias comunes.
+En conclusión, el desarrollo de APIs comunitarias promueve la autogestión, la colaboración activa y una infraestructura tecnológica soberana.
