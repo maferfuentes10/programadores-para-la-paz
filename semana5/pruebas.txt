@@ -1,0 +1,8 @@
+Ruta http://localhost:3000:
+Muestra el texto 'Servidor activo' directamente en la pantalla del navegador.
+
+Ruta http://localhost:3000/saludo:
+Muestra el mensaje estático 'Hola comunidad' en la pantalla del navegador.
+
+Ruta http://localhost:3000/mensaje/juan:
+Muestra el mensaje dinámico 'Hola juan'. El servidor extrae el parámetro dinámico ':nombre' de la URL y lo concatena automáticamente en la respuesta.
