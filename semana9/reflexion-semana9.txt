@@ -1,0 +1,7 @@
+Es fundamental que las plataformas comunitarias funcionen de manera estable para garantizar que esten siempre disponibles cuando la ciudadania las necesite.
+Una caida del servidor durante una emergencia o proceso participativo puede generar desconfianza en la herramienta.
+Ademas, aplicar medidas de seguridad protege la privacidad y los datos sensibles de los usuarios.
+El monitoreo a traves de logs permite detectar errores a tiempo antes de que afecten a toda la comunidad.
+Un sistema robusto asegura que la comunicacion y los reportes fluyan sin interrupciones tecnicas.
+Si la tecnologia falla constantemente, se desmotiva la participacion ciudadana y se pierde el esfuerzo organizativo.
+En resumen, la estabilidad tecnica es la base que da soporte y credibilidad a cualquier proyecto social digital.
