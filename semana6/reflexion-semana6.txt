@@ -1,0 +1,8 @@
+Es fundamental que las plataformas tecnológicas reciban reportes de forma estructurada mediante formatos universales como JSON.
+Esto permite que la información ingresada por los ciudadanos sea procesada, clasificada y almacenada de manera eficiente y automática.
+Al tener datos organizados por categorías (como el tipo de incidencia o su descripción exacta), los sistemas no colapsan.
+Permite derivar inmediatamente las alertas al departamento correspondiente sin depender de lectura humana constante.
+Evita el caos de la información libre y reduce drásticamente los tiempos de atención ante emergencias comunitarias.
+Además, facilita el análisis de datos a gran escala, ayudando a las autoridades a identificar patrones o zonas críticas.
+Una estructura clara y obligatoria garantiza que no falten datos importantes al momento de atender un reporte.
+En resumen, la estructuración de la información es el puente técnico entre la participación ciudadana y la acción efectiva.
