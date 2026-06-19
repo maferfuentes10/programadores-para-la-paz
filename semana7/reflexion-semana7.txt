@@ -1,0 +1,8 @@
+Para mi es fundamental que las comunidades cuenten con plataformas tecnológicas para registrar incidencias, ya que centraliza las necesidades reales del sector.
+Esto permite documentar formalmente los problemas, creando una base de datos transparente y accesible para todos los vecinos.
+Al almacenar esta información, se pueden identificar patrones, como zonas con constantes fallas eléctricas o problemas de seguridad.
+Esto facilita a las autoridades u organizaciones comunitarias priorizar recursos de manera objetiva basándose en datos concretos.
+Además, una API estructurada evita que la información se pierda en chats o redes sociales, asignando un ID para hacerle trazabilidad.
+Fomenta la colaboración ciudadana al permitir que varias personas consulten si un problema ya fue reportado previamente.
+En definitiva, la tecnología convierte quejas informales en herramientas de gestión pública estructuradas.
+Sistematizar los reportes es el primer paso hacia la construcción de una verdadera infraestructura de ciudades inteligentes y conectadas.

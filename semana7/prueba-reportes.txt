@@ -1,0 +1,2 @@
+Al iniciar el servidor y consultar la ruta GET /reportes, el servidor devuelve un array vacío [] porque la memoria inicial no tiene datos.
+Sin embargo, después de enviar un reporte usando el método POST, al volver a consultar la ruta GET, el servidor devuelve el array actualizado con los datos que enviamos en formato JSON, incluyéndoles un ID generado automáticamente.
