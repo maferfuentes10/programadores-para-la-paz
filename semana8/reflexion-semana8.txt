@@ -1,0 +1,8 @@
+La seguridad digital es un pilar fundamental para proteger plataformas participativas porque resguarda la privacidad y la integridad de la comunidad.
+Si los ciudadanos confian sus datos o reportes a un sistema, este debe garantizar que la informacion no sera manipulada ni robada.
+Una brecha de seguridad podria exponer a lideres comunitarios o sabotear procesos importantes de toma de decisiones.
+Ademas, proteger los servidores asegura que la plataforma se mantenga disponible y no colapse ante ataques externos.
+Las buenas practicas, como el uso de conexiones seguras y gestion de accesos, construyen confianza en la tecnologia.
+Sin seguridad, las herramientas que deberian empoderar terminan convirtiendose en un riesgo para los usuarios.
+Una estructura segura garantiza que nadie intercepte datos sensibles mientras viajan por la red.
+Por lo tanto, la seguridad es un compromiso etico con la proteccion de los derechos de la ciudadania.
