@@ -1,0 +1,8 @@
+Las metodologias agiles son fundamentales para organizar procesos comunitarios porque permiten avanzar paso a paso, priorizando siempre lo mas urgente sin abrumar a los equipos de trabajo.
+Al usar un backlog, todos los participantes tienen claridad sobre que se esta haciendo y que sigue, lo que fomenta la transparencia ciudadana.
+Por su parte, herramientas de automatizacion como n8n eliminan el trabajo manual repetitivo, liberando tiempo valioso para enfocarse en soluciones de campo.
+Integrar canales de uso diario como Telegram facilita que la informacion llegue de inmediato a los lideres sin requerir plataformas o manuales complejos.
+Esta combinacion de organizacion y tecnologia agiliza drasticamente los tiempos de respuesta ante problemas barriales o emergencias publicas.
+Ademas, garantiza que la participacion ciudadana sea mas inclusiva, dinamica y sobre todo, sostenible en el tiempo.
+Al final, la tecnologia no reemplaza el trabajo presencial de la comunidad, sino que lo potencia, lo audita y le da una estructura solida.
+Implementar estas practicas convierte la voluntad de las personas en acciones concretas, trazables y altamente organizadas.

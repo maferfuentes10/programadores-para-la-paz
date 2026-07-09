@@ -1,0 +1,11 @@
+1. ¿Que 2 tareas del backlog harias primero?
+- Registrar una incidencia estructural en la plataforma.
+- Recibir una alerta automatica en Telegram.
+
+2. ¿Por que son las mas importantes?
+Porque representan el flujo basico y critico para que el sistema sirva: si no se pueden crear reportes, no hay nada que gestionar, y si no hay alertas rapidas, la comunidad no se entera de las necesidades urgentes de infraestructura.
+
+3. ¿Que significa para ti que una tarea este 'terminada'? (Criterios)
+- El codigo funciona correctamente sin arrojar errores.
+- Fue probada simulando el rol de un ciudadano y de un coordinador.
+- Quedo documentada, guardada y subida correctamente al repositorio de Git.

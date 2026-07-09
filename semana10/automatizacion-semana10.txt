@@ -1,0 +1,8 @@
+¿Que evento activa el flujo?
+El flujo en n8n se activa justo en el momento en que un ciudadano envia exitosamente un nuevo reporte (por ejemplo, al recibir una peticion POST en el servidor).
+
+¿Que mensaje se enviaria a Telegram?
+Mensaje: 'Alerta Comunitaria: Se ha registrado un nuevo reporte de infraestructura. Por favor, revisar el sistema para asignar una visita tecnica de diagnostico.'
+
+¿Que informacion no deberia enviarse por seguridad?
+Por proteccion de datos (informacion sensible), NUNCA deben enviarse al chat: nombres completos del ciudadano, numeros de cedula, direcciones exactas de la residencia, telefonos, ni ninguna informacion que permita perfilar o exponer a la persona que hace la veeduria.

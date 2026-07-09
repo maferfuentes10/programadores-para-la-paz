@@ -1,0 +1,6 @@
+Lista priorizada de Historias de Usuario:
+
+1. Como ciudadano quiero registrar una incidencia estructural o de servicios publicos para dejar evidencia tecnica del caso.
+2. Como coordinador quiero recibir una alerta automatica en Telegram para enterarme y revisar inmediatamente un nuevo reporte de daños.
+3. Como miembro de la veeduria quiero consultar el registro fotografico y diagnostico de los reportes activos para hacerles seguimiento en el comite.
+4. Como ciudadano quiero ver el estado de mi reporte para saber si ya se programo una visita tecnica en el municipio.
