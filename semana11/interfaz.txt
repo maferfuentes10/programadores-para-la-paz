@@ -1,0 +1,6 @@
+La interfaz de la plataforma comunitaria estaria estructurada de forma clara y funcional:
+1. Tendria un formulario principal para crear una nueva causa comunitaria (pidiendo solo titulo, descripcion y fecha).
+2. Contaria con una vista o lista central donde los ciudadanos puedan leer todas las causas disponibles en su sector.
+3. Cada tarjeta de causa tendria un boton interactivo para 'Apoyar' el reporte.
+4. Al lado del boton, habria un contador en tiempo real que muestre cuantas personas respaldan esa causa especifica.
+El diseño debe ser muy intuitivo y debe garantizar que, al navegar, no se exponga ninguna informacion privada de los ciudadanos que participan.

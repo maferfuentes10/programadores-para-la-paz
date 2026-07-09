@@ -1,0 +1,8 @@
+Una plataforma tecnologica de participacion ciudadana maneja el activo mas valioso de una comunidad: su informacion y su voz.
+Por ello, tener una base de datos es indispensable para almacenar los reportes de manera estructurada, evitando que las necesidades se pierdan en chats informales.
+Sin embargo, recopilar esta informacion conlleva una gran responsabilidad, y ahi entra la autenticacion de usuarios.
+El login garantiza que las personas que reportan o apoyan causas sean miembros reales, evitando saboteadores que alteren las votaciones.
+Ademas, la proteccion de informacion mediante rutas seguras es un compromiso etico ineludible.
+Si la comunidad confia en la plataforma para reportar fallas en su entorno, el sistema debe garantizar que sus datos personales jamas seran expuestos.
+Una infraestructura segura, con bases de datos organizadas y accesos controlados, fomenta la transparencia.
+Y cuando la tecnologia genera confianza total, la participacion ciudadana se vuelve mucho mas activa, masiva y efectiva.

@@ -1,0 +1,5 @@
+El login es el mecanismo de seguridad que permite identificar a un usuario en la plataforma antes de darle acceso a ciertas funciones.
+Es fundamental tener rutas protegidas porque los sistemas manejan informacion privada y acciones (como borrar o editar un reporte) que no deberian estar disponibles para cualquier visitante.
+Ademas, mediante esta proteccion garantizamos que informacion delicada nunca se exponga publicamente.
+Por ejemplo, nunca se deben mostrar contraseñas, documentos de identidad, telefonos, direcciones residenciales o claves de API.
+Proteger estos datos es vital para cuidar la privacidad de la comunidad y evitar suplantaciones o mal uso de la informacion.
