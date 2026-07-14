@@ -1,0 +1,8 @@
+Durante este curso aprendi que la tecnologia puede ayudar a fortalecer la participacion ciudadana y apoyar la organizacion de las comunidades.
+Tambien comprendi que desarrollar una aplicacion no consiste solo en programar, sino en crear soluciones utiles y faciles de usar.
+Aprendi la importancia de proteger la informacion de las personas y utilizar los datos de forma responsable.
+Conoci herramientas como GitHub, GitHub Codespaces y n8n que facilitan el desarrollo de proyectos.
+Tambien entendi que una buena solucion tecnologica debe responder a una necesidad real.
+Este curso me permitio fortalecer mis conocimientos basicos de programacion.
+Ahora comprendo mejor como se conectan el backend, las bases de datos y la automatizacion.
+Considero que la tecnologia puede generar un impacto positivo cuando se utiliza para beneficiar a la comunidad.

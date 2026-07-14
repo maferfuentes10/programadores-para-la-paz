@@ -1,0 +1,8 @@
+Evento:
+Nueva causa registrada en la plataforma.
+
+Mensaje:
+Nueva causa creada en la plataforma. Ya esta disponible para recibir apoyos.
+
+Informacion que no debe enviarse:
+Cedulas, telefonos, direcciones, correos electronicos ni otros datos personales de los ciudadanos.
